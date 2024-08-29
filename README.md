@@ -1,3 +1,3 @@
-Hello My Name is Praveen, I am from UIET KURUKSHETRA UNIVERSITY pursued my Master of Technology in CSE.
+Hello My Name is Praveen, I am from UIET KURUKSHETRA University pursued my Master of Technology in CSE.
 I am currently learning new things.
 Stay Tuned.. Profile is  Loading.....
