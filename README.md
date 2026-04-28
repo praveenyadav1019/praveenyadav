@@ -21,7 +21,7 @@ I'm a Computer Science postgraduate from **UIET, Kurukshetra University**, where
 
 ## 📫 Connect with Me
 <!-- Update these links with your actual profiles -->
-- **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
+- **LinkedIn:** [linkedin.com/in/praveen-yadav-142344137](https://www.linkedin.com/in/praveen-yadav-142344137/)
 - **GitHub:** [@praveenyadav1019](https://github.com/praveenyadav1019)
 - **Email:** _your.email@example.com_
 
